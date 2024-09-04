@@ -15,3 +15,8 @@ WARNING: more No IPv4 address found on awdl0 !
 Sent 1 packets.
 .
 ```
+
+
+If you don't have Python setup on your laptop yet, please refer the link below:
+
+https://github.com/animeshgupta720/dev_setup
